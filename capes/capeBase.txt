@@ -1,7 +1,12 @@
 pan4ur:dev
 HeySaFi:dev
 OwO:dev
-_Keem_:tester
-Qualet:tester
-QoShak:tester
-Ebatte_Sratte:tester
+_Keem_:bkgroup
+Qualet:bkgroup
+QoShak:bkgroup
+Ebatte_Sratte:bkgroup
+Hell_Raider:bkgroup
+Cattyn:bkgroup
+BarsLan_:bkgroup
+MrZak34:bkgroup
+

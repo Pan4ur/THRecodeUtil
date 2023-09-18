@@ -7,7 +7,7 @@ QoShak:bkgroup
 Ebatte_Sratte:bkgroup
 Hell_Raider:bkgroup
 Cattyn:bkgroup
-BarsLan_:bkgroup
+BarsLan_:fbgroup
 MrZak34:bkgroup
 skiferuk:bkgroup
 06ED:dev

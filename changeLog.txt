@@ -1,0 +1,6 @@
+ChangeLog [recode v1.3b2309]
+
+[+] Added module
+[/] Improved module
+[-] Removed module
+[*] th on android

@@ -1,6 +1,9 @@
 ChangeLog [recode v1.3b2309]
 
-[+] Added module
-[/] Improved module
-[-] Removed module
-[*] th on android
+[+] Added Custom MainMenu
+[/] Optimized ClickGui & HUD
+[/] Improved Surround
+[/] Fixed Shaders on < OpenGL 4.6 GPU
+[/] Fixed Media
+[/] Fixed @friend remove command
+[/] Fixed "aboba" in AutoCrystal XD

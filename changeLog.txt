@@ -1,4 +1,4 @@
-ChangeLog [recode v1.3b2309]
+ChangeLog [recode v1.3b2409]
 
 [+] Added Custom MainMenu
 [/] Optimized ClickGui & HUD

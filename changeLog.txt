@@ -1,7 +1,11 @@
 ChangeLog [recode v1.3b810]
 
 [+] AutoBed
+[+] EntitySpeed
+[+] Aura -> ClientLook
+[+] Fakeplayer -> Motion record
 [/] Fixed NoCameraClip and NameTags by @Meesterbouwer123
+[/] Reworked Nuker
 [/] Fixed PistonPush
 [/] Added more settings to SpeedMine
 [/] Fixed Linux compatibility

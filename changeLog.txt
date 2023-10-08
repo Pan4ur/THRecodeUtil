@@ -1,6 +1,7 @@
 ChangeLog [recode v1.3b810]
 
 [+] AutoBed
+[/] Fixed NoCameraClip and NameTags by @Meesterbouwer123
 [/] Fixed PistonPush
 [/] Added more settings to SpeedMine
 [/] Fixed Linux compatibility

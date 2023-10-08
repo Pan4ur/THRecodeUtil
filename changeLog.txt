@@ -1,6 +1,6 @@
 
 /*
-*  If you downloaded ThunderHack in the period 4.10.23 - 0.10.23,
+*  If you downloaded ThunderHack in the period 4.10.23 - 8.10.23,
 *  please download again from github / site (click on logo)
 *  to avoid crashes and bugs! 
 */

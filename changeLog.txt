@@ -1,16 +1,8 @@
+ChangeLog [recode v1.3b810]
 
-/*
-*  If you downloaded ThunderHack in the period 4.10.23 - 8.10.23,
-*  please download again from github / site (click on logo)
-*  to avoid crashes and bugs! 
-*/
+[+] AutoBed
+[/] Fixed PistonPush
+[/] Added more settings to SpeedMine
+[/] Fixed Linux compatibility
+[/] Fixed Interaction -> Strict in AutoCrystal
 
-ChangeLog [recode v1.3b2409]
-
-[+] Added Custom MainMenu
-[/] Optimized ClickGui & HUD
-[/] Improved Surround
-[/] Fixed Shaders on < OpenGL 4.6 GPU
-[/] Fixed Media
-[/] Fixed @friend remove command
-[/] Fixed "aboba" in AutoCrystal XD

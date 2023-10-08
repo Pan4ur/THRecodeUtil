@@ -1,8 +1,8 @@
 
 /*
 *  If you downloaded ThunderHack in the period 4.10.23 - 0.10.23,
-*  please download again from github / site
-*  to avoid crashes and bugs!
+*  please download again from github / site (click on logo)
+*  to avoid crashes and bugs! 
 */
 
 ChangeLog [recode v1.3b2409]

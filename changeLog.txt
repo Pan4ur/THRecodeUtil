@@ -18,6 +18,6 @@ ChangeLog [recode v1.3b810]
 *
 *  1. Disable UseTimer in Speed
 *  2. Set AutoCrystal -> Place -> Interact -> Strict
-*  3. Turn off rotations in all modules and set Interact -> Strict
+*  3. Turn on rotations in all block placing modules and set Interact -> Strict
 */
 

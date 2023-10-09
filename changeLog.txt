@@ -10,4 +10,14 @@ ChangeLog [recode v1.3b810]
 [/] Added more settings to SpeedMine
 [/] Fixed Linux compatibility
 [/] Fixed Interaction -> Strict in AutoCrystal
+[*] CC config update
+
+/*
+*  Anti-cheat has been updated on cc
+*  To fix your config:
+*
+*  1. Disable UseTimer in Speed
+*  2. Set AutoCrystal -> Place -> Interact -> Strict
+*  3. Turn off rotations in all modules and set Interact -> Strict
+*/
 

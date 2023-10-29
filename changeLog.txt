@@ -31,3 +31,6 @@ ChangeLog [recode v1.3b3010]
 [/] Slightly reworked Aura, Added more settings
 [/] Fixed Feather Compatibility
 [/] Fixed Pojav Compatibility
+[-] HitBoxDesync
+[-] AutoMend
+[-] NoPitchLimit

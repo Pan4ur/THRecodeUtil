@@ -1,5 +1,6 @@
 ChangeLog [recode v1.3b3010]
 
+[+] TNTAura
 [+] SoundFX
 [+] PearlBlockThrow
 [+] CrossHairArrows

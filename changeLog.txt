@@ -1,23 +1,33 @@
-ChangeLog [recode v1.3b810]
+ChangeLog [recode v1.3b3010]
 
-[+] AutoBed
-[+] EntitySpeed
-[+] Aura -> ClientLook
-[+] Fakeplayer -> Motion record
-[/] Fixed NoCameraClip and NameTags by @Meesterbouwer123
-[/] Reworked Nuker
-[/] Fixed PistonPush
-[/] Added more settings to SpeedMine
-[/] Fixed Linux compatibility
-[/] Fixed Interaction -> Strict in AutoCrystal
-[*] CC config update
-
-/*
-*  Anti-cheat has been updated on cc
-*  To fix your config:
-*
-*  1. Disable UseTimer in Speed
-*  2. Set AutoCrystal -> Place -> Interact -> Strict
-*  3. Turn on rotations in all block placing modules and set Interact -> Strict
-*/
-
+[+] SoundFX
+[+] PearlBlockThrow
+[+] CrossHairArrows
+[+] Strafe -> Sunrise
+[+] KillFeed
+[+] FastLatency
+[+] AutoCrystalBase
+[+] "AirPlace" to Placing modules
+[+] ClickGui -> small mode
+[+] Minecart and Frame to StorageESP
+[+] AutoBuff -> onGround
+[+] SpeedMine -> SwapDelay
+[+] Velocity -> cc
+[+] MiddleClick -> AntiPickUp
+[+] AntiVoid
+[+] DamageTint
+[+] Paimon (hud)
+[+] Tracers
+[+] NoRender -> ScoreBoard
+[/] Improved AutoTrap & SelfTrap
+[/] Improved Freecam
+[/] Increased the speed of AutoCrystal
+[/] Fixed GUI shaders on low gui scale
+[/] Fixed Friend attack in PistonAura
+[/] Fixed MiddleClick on cc
+[/] Fixed Strafe on storm, infinityhvh etc..
+[/] Fixed LogoutSpots crah
+[/] Fixed Autototem -> RCGap
+[/] Slightly reworked Aura, Added more settings
+[/] Fixed Feather Compatibility
+[/] Fixed Pojav Compatibility

@@ -1,37 +1,40 @@
-ChangeLog [recode v1.3b3010]
+ChangeLog [recode v1.3b2711]
 
-[+] TNTAura
-[+] SoundFX
-[+] PearlBlockThrow
-[+] CrossHairArrows
-[+] Strafe -> Sunrise
-[+] KillFeed
-[+] FastLatency
-[+] AutoCrystalBase
-[+] "AirPlace" to Placing modules
-[+] ClickGui -> small mode
-[+] Minecart and Frame to StorageESP
-[+] AutoBuff -> onGround
-[+] SpeedMine -> SwapDelay
-[+] Velocity -> cc
-[+] MiddleClick -> AntiPickUp
-[+] AntiVoid
-[+] DamageTint
-[+] Paimon (hud)
-[+] Tracers
-[+] NoRender -> ScoreBoard
-[/] Improved AutoTrap & SelfTrap
-[/] Improved Freecam
-[/] Increased the speed of AutoCrystal
-[/] Fixed GUI shaders on low gui scale
-[/] Fixed Friend attack in PistonAura
-[/] Fixed MiddleClick on cc
-[/] Fixed Strafe on storm, infinityhvh etc..
-[/] Fixed LogoutSpots crah
-[/] Fixed Autototem -> RCGap
-[/] Slightly reworked Aura, Added more settings
-[/] Fixed Feather Compatibility
-[/] Fixed Pojav Compatibility
-[-] HitBoxDesync
-[-] AutoMend
-[-] NoPitchLimit
+[+] NewYear main menu shader
+[+] NoSlow -> MusteryWorld
+[+] Velocity -> AntiPush
+[+] Automine -> AntiBurrow
+[+] HoleFill -> PlayerPredict
+[+] Nuker -> AvoidLava
+[+] AutoLeave -> staff, leave mode
+[+] ToolSaver
+[+] InvCleaner -> BlackList
+[+] ElytraSwap -> StartFireWork
+[+] PearlChaser
+[+] ESP -> DisorientRadius
+[+] Parkour
+[+] Animations -> Modes
+[+] Aura -> ESP Modes
+[+] Watermark -> RU
+[+] MouseElytraFix
+[+] GapplesHud
+[+] TotemCounter
+[+] FireFlies
+[+] Velocity -> GrimNew
+[+] AspectRatio
+[+] HitBoxes -> AffectToAura
+[+] CrossHair -> Dynamic
+[+] Aura -> SpaceOnly, AutoJump
+[/] Improved hud and clickgui
+[/] ESP improvements by @nepcNK
+[/] Improved Aura RayTrace
+[/] Improved Aura for FunTime
+[/] Fixed lines renderer
+[/] Fixed AutoTool air swap
+[/] Improved AutoFish for FunTime
+[/] Improved ChestStealer for FunTime
+[/] Fixed Aura re-sprinting
+[/] Fixed AntiBot spam
+[/] Fixed FastUse delay
+[/] Improved AutoTotem logic
+[/] Fixed Enchants in NameTags

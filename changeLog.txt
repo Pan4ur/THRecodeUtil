@@ -28,6 +28,7 @@ ChangeLog [recode v1.3b2711]
 [+] Aura -> SpaceOnly, AutoJump
 [+] FreeCam -> change speed via mouse wheel
 [+] ChestStealer -> AutoMist
+[+] FTHelper
 [/] Improved hud and clickgui
 [/] ESP improvements by @nepcNK
 [/] Improved Aura RayTrace

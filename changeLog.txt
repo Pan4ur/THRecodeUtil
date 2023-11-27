@@ -14,6 +14,7 @@ ChangeLog [recode v1.3b2711]
 [+] ESP -> DisorientRadius
 [+] Parkour
 [+] Animations -> Modes
+[+] elytra+ -> SunriseNew
 [+] Aura -> ESP Modes
 [+] Watermark -> RU
 [+] MouseElytraFix

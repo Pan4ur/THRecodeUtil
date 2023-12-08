@@ -1,44 +1,15 @@
-ChangeLog [recode v1.3b2711]
+ChangeLog [recode v1.4b812]
 
-[+] NewYear main menu shader
-[+] NoSlow -> MusteryWorld
-[+] Velocity -> AntiPush
-[+] Automine -> AntiBurrow
-[+] HoleFill -> PlayerPredict
-[+] Nuker -> AvoidLava
-[+] AutoLeave -> staff, leave mode
-[+] ToolSaver
-[+] InvCleaner -> BlackList
-[+] ElytraSwap -> StartFireWork
-[+] PearlChaser
-[+] ESP -> DisorientRadius
-[+] Parkour
-[+] Animations -> Modes
-[+] Elytra+ -> SunriseNew
-[+] Aura -> ESP Modes
-[+] Watermark -> RU
-[+] MouseElytraFix
-[+] GapplesHud
-[+] TotemCounter
-[+] FireFlies
-[+] Velocity -> GrimNew
-[+] AspectRatio
-[+] HitBoxes -> AffectToAura
-[+] CrossHair -> Dynamic
-[+] Aura -> SpaceOnly, AutoJump
-[+] FreeCam -> change speed via mouse wheel
-[+] ChestStealer -> AutoMist
-[+] FTHelper
-[/] Improved hud and clickgui
-[/] ESP improvements by @nepcNK
-[/] Improved Aura RayTrace
-[/] Improved Aura for FunTime
-[/] Fixed lines renderer
-[/] Fixed AutoTool air swap
-[/] Improved AutoFish for FunTime
-[/] Improved ChestStealer for FunTime
-[/] Fixed Aura re-sprinting
-[/] Fixed AntiBot spam
-[/] Fixed FastUse delay
-[/] Improved AutoTotem logic
-[/] Fixed Enchants in NameTags
+[+] WTap
+[+] CrossHair -> Range, Speed
+[+] HudEditor -> ArrowStyle
+[+] Particles
+[+] WorldTweaks -> FogModify
+[+] PerfectDelay
+[+] NoSlow -> FunTime
+[+] Animations -> more modes
+[+] NoInteract -> OnlyAura
+[/] Improved XRay for FunTime
+[/] Fixed AutoTotem -> Matrix
+[/] Fixed TriggerBot
+

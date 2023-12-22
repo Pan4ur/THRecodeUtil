@@ -1,15 +1,19 @@
-ChangeLog [recode v1.4b812]
+ChangeLog [recode v1.4b2212]
 
-[+] WTap
-[+] CrossHair -> Range, Speed
-[+] HudEditor -> ArrowStyle
-[+] Particles
-[+] WorldTweaks -> FogModify
-[+] PerfectDelay
-[+] NoSlow -> FunTime
-[+] Animations -> more modes
-[+] NoInteract -> OnlyAura
-[/] Improved XRay for FunTime
-[/] Fixed AutoTotem -> Matrix
-[/] Fixed TriggerBot
+[+] AutoBuy (funTime)
+[+] Speed -> FunTime (Grim)
+[+] TargetHud -> NurikZapen -> Mini
+[+] Wurst easter egg
+[+] German translation by @svenbledt
+[+] SwingAnimations -> Moooooore modes
+[+] NameTags, TargetHud -> FunTime (HP Bypass)
+[+] NameTags -> OnlyHands
+[/] Fixed string settings saving
+[/] Fixed Aura -> OnlyWeapon with MoveFix
+[/] Optimized hud elements
+[/] Improved NoSlow -> FunTime (Grim)
+[/] Fixed BoatFly -> allowShift
+[/] Fixed Aura interact on Grim
+[*] Updated Grim started config
+
 

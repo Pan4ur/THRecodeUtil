@@ -14,6 +14,6 @@ ChangeLog [recode v1.4b2212]
 [/] Improved NoSlow -> FunTime (Grim)
 [/] Fixed BoatFly -> allowShift
 [/] Fixed Aura interact on Grim
-[*] Updated Grim started config
+[*] Updated Grim starter config
 
 

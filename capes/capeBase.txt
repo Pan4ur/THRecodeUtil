@@ -32,4 +32,5 @@ NeverShakal7:tester
 NeverShakal8:tester
 NeverShakal9:tester
 NeverShakal10:tester
+izi_brizi:tester
 Vostanka:dev

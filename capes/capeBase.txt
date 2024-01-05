@@ -22,3 +22,14 @@ Tympasik:tester
 Aceid:tester
 MAWNHA:tester
 favuel1939:tester
+NeverShakal1:tester
+NeverShakal2:tester
+NeverShakal3:tester
+NeverShakal4:tester
+NeverShakal5:tester
+NeverShakal6:tester
+NeverShakal7:tester
+NeverShakal8:tester
+NeverShakal9:tester
+NeverShakal10:tester
+Vostanka:dev

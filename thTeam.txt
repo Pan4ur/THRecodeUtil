@@ -1,4 +1,5 @@
-Pan4ur;532547459692625941/0ce43b3adc41058acbb8485ac7f6dab5;Developer;ThunderHack's lead developerтDiscord: pan4urтIGN: pan4urтGitHub: github.com/Pan4ur;https://github.com/Pan4ur
-06ED;1130421440471121950/136f3a772a3adc4c4554c07023a363b1;Developer;ThunderHack's developerтDiscord: dinner_enjoyerтIGN: 06EDтGitHub: github.com/06ED;https://github.com/06ED
+Pan4ur;532547459692625941/0ce43b3adc41058acbb8485ac7f6dab5;Developer;ThunderHack's lead developerттDiscord: pan4urтIGN: pan4urтGitHub: github.com/Pan4ur;https://github.com/Pan4ur
+06ED;1130421440471121950/136f3a772a3adc4c4554c07023a363b1;Developer;ThunderHack's developerттDiscord: dinner_enjoyerтIGN: 06EDтGitHub: github.com/06ED;https://github.com/06ED
 AI_24;482297421360267279/b21112ad8fa54713ca61fc27e7cb0b4f;YT;Makes cool showcases for mcтclients, also streams cpvp. Madeтa showcase for ThunderHack;https://www.youtube.com/@Ai_24
 KiLAB;285433068792053760/b69b45faf700b482bb5686884e8ee0db;YT;Making reviews on clients for mc.тMade a CCO for ThunderHack;https://www.youtube.com/@KiLABGaming
+Anonymous;691641996565282847/044d7bb508df4e6b2834e92ad52a58ed;Tester;Finds bugs and suggests new featuresтDiscord: ancnymous;none

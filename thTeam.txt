@@ -1,4 +1,4 @@
-Pan4ur;532547459692625941/0ce43b3adc41058acbb8485ac7f6dab5;Developer;ThunderHack's lead developer\nDiscord: pan4ur\nIGN: pan4ur\nGitHub: github.com/Pan4ur;https://github.com/Pan4ur
-06ED;1130421440471121950/136f3a772a3adc4c4554c07023a363b1;Developer;ThunderHack's developer\nDiscord: dinner_enjoyer\nIGN: 06ED\nGitHub: github.com/06ED;https://github.com/06ED
-AI_24;482297421360267279/b21112ad8fa54713ca61fc27e7cb0b4f;YT;Makes cool showcases for mc\nclients, also streams cpvp. Made\na showcase for ThunderHack;https://www.youtube.com/@Ai_24
-KiLAB;285433068792053760/b69b45faf700b482bb5686884e8ee0db;YT;Making reviews on clients for mc.\nMade a CCO for ThunderHack;https://www.youtube.com/@KiLABGaming
+Pan4ur;532547459692625941/0ce43b3adc41058acbb8485ac7f6dab5;Developer;ThunderHack's lead developertabDiscord: pan4urtabIGN: pan4urtabGitHub: github.com/Pan4ur;https://github.com/Pan4ur
+06ED;1130421440471121950/136f3a772a3adc4c4554c07023a363b1;Developer;ThunderHack's developertabDiscord: dinner_enjoyertabIGN: 06EDtabGitHub: github.com/06ED;https://github.com/06ED
+AI_24;482297421360267279/b21112ad8fa54713ca61fc27e7cb0b4f;YT;Makes cool showcases for mctabclients, also streams cpvp. Madetaba showcase for ThunderHack;https://www.youtube.com/@Ai_24
+KiLAB;285433068792053760/b69b45faf700b482bb5686884e8ee0db;YT;Making reviews on clients for mc.tabMade a CCO for ThunderHack;https://www.youtube.com/@KiLABGaming

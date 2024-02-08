@@ -1,0 +1,19 @@
+ChangeLog [recode v1.4b2212]
+
+[+] AutoBuy (funTime)
+[+] Speed -> FunTime (Grim)
+[+] TargetHud -> NurikZapen -> Mini
+[+] Wurst easter egg
+[+] German translation by @svenbledt
+[+] SwingAnimations -> Moooooore modes
+[+] NameTags, TargetHud -> FunTime (HP Bypass)
+[+] NameTags -> OnlyHands
+[/] Fixed string settings saving
+[/] Fixed Aura -> OnlyWeapon with MoveFix
+[/] Optimized hud elements
+[/] Improved NoSlow -> FunTime (Grim)
+[/] Fixed BoatFly -> allowShift
+[/] Fixed Aura interact on Grim
+[*] Updated Grim starter config
+
+

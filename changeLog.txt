@@ -1,19 +1,25 @@
-ChangeLog [recode v1.4b2212]
+ChangeLog [recode v1.4b704]
 
-[+] AutoBuy (funTime)
-[+] Speed -> FunTime (Grim)
-[+] TargetHud -> NurikZapen -> Mini
-[+] Wurst easter egg
-[+] German translation by @svenbledt
-[+] SwingAnimations -> Moooooore modes
-[+] NameTags, TargetHud -> FunTime (HP Bypass)
-[+] NameTags -> OnlyHands
-[/] Fixed string settings saving
-[/] Fixed Aura -> OnlyWeapon with MoveFix
-[/] Optimized hud elements
-[/] Improved NoSlow -> FunTime (Grim)
-[/] Fixed BoatFly -> allowShift
-[/] Fixed Aura interact on Grim
-[*] Updated Grim starter config
+[+] ChestCounter
+[+] HitBubbles
+[+] Speed -> FireWork
+[+] Nametags -> HealthMode, Shulker preview
+[+] AutoTotem -> BindSwap
+[+] Aura -> RandomHitDelay
+[+] AutoCrystal -> UseOptimizedCalc
+[+] AutoCrystal -> LowPlaceDelay, LowBreakDelay (Delay when face placing)
+[+] NoFall -> Grim
+[+] UA translation by @Freezx
+[+] Rotations module
+[+] Chams -> Players, Crystals
+[+] AutoGApple -> AutototemIntegration
+[+] Blink -> DisableOnVelocity
+[+] Notifications -> Mode CrossHair, Text, Default
+[+] Nuker -> Whitelist, Blacklist
+[/] ClickGui Rewrite 
+[/] Fixed LongJump crash
+[/] Fixed MiddleClick -> XP
+[/] Improved AutoCrystal placements and logic
+[-] Removed outdated stuff
 
 

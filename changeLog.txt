@@ -1,25 +1,21 @@
-ChangeLog [recode v1.4b704]
+ChangeLog [recode v1.4b1404]
 
-[+] ChestCounter
-[+] HitBubbles
-[+] Speed -> FireWork
-[+] Nametags -> HealthMode, Shulker preview
-[+] AutoTotem -> BindSwap
-[+] Aura -> RandomHitDelay
-[+] AutoCrystal -> UseOptimizedCalc
-[+] AutoCrystal -> LowPlaceDelay, LowBreakDelay (Delay when face placing)
-[+] NoFall -> Grim
-[+] UA translation by @Freezx
-[+] Rotations module
-[+] Chams -> Players, Crystals
-[+] AutoGApple -> AutototemIntegration
-[+] Blink -> DisableOnVelocity
-[+] Notifications -> Mode CrossHair, Text, Default
-[+] Nuker -> Whitelist, Blacklist
-[/] ClickGui Rewrite 
-[/] Fixed LongJump crash
-[/] Fixed MiddleClick -> XP
-[/] Improved AutoCrystal placements and logic
-[-] Removed outdated stuff
-
-
+[+] Spammer -> Api (by @Kowwwk)
+[+] AntiCrash (by @Kowwwk)
+[+] NoBob
+[+] HotbarReplenish -> Mode
+[+] NoFall -> Items -> Retrieve
+[+] GuiMove -> Grim995 (by @delyfss4796)
+[+] HoleSnap -> FOV
+[+] NoPush
+[+] ChatTranslator
+[+] ClickGUI -> tips
+[+] SpeedMine -> GrimInstant
+[+] Phase -> Pearl -> pitch
+[+] Aura -> Resolver -> BackTrack
+[/] Fixed XRay crash
+[/] Fixed TimerIndicator
+[/] Fixed AutoCrystal Switch
+[/] Fixed Packet placements
+[/] Fixed ChestStealer -> Close
+[/] Fixed DragNDrop cfg loading

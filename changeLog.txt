@@ -3,8 +3,7 @@ ChangeLog [recode v1.4b205]
 [+] Scaffold -> Grim
 [+] Breaker -> AntiShulker
 [+] ChatUtils -> PMSound
-[+] SoundESP
-[+] CandleHUD
+[+] SoundESP, CandleHUD, Jesus, Avoid, AutoSign, MemoryHud, AutoAnvil, PortalInventory
 [+] AutoBuff -> Regeneration Mode
 [+] FakePlayer -> Name
 [+] Extra MiddleClick settings
@@ -14,40 +13,29 @@ ChangeLog [recode v1.4b205]
 [+] Shaders -> Self
 [+] Elytra+ -> Control -> Acceleration
 [+] HudEditor -> Glow, Outline
-[+] Aura -> FastFall -> OnlyJumpBoost
-[+] Aura -> AccelerateOnHit modes
-[+] Aura -> ReturnSprint
+[+] Aura -> FastFall -> OnlyJumpBoost, ReturnSprint, AccelerateOnHit modes
 [+] AutoTotem -> Mode -> Alternative
 [+] GuiMove -> Bypass modes
-[+] Jesus
 [+] AutoTotem -> RightClickGapple mode
 [+] Criticals -> Grim
 [+] Elytra+ -> FireWork -> Grim
 [+] Speed -> GrimIce, GrimCombo (GrimIce + GrimEntity2)
 [+] GetHorseSpeedCommand (@gethorsespeed)
 [+] Nametags -> FriendColor
-[+] Avoid
 [+] WaterSpeed -> CancelResurface, FunTimeNew
-[+] AutoSign
 [+] LogoutSpots -> Notifications
 [+] Added Dropper and Dispenser to NoInteract
 [+] Freecam -> Track
-[+] PortalInventory
-[+] MemoryHud
 [+] NoSLow -> Matrix3
-[+] AutoAnvil
 [+] PerfectDelay -> HorseJump mode
-[/] Added all descriptions for en/ru
 [/] @module command has become more user-friendly 
 [/] Fixed HoleFill -> Always
 [/] Added Grim option to Rotation in modules
-[/] Improved HitParticles
 [/] Fixed Aura Raytracing
 [/] Now you can customize size of the ClickGui
 [/] Fixed ElytraRecast affecting to pitch even if Pitch is off
 [/] Fixed Timer compatibility with another clients
-[/] Impoved Multitask
-[/] Improved ViewLock
+[/] Impoved Multitask, ViewLock and HitParticles
 [/] Fixed Search panel and string settings
 [/] Fixed AutoEat and AutoGapple not eating when inventory is open
 [/] Improved Breaker + AutoTrap + AutoCrystal + SpeedMine work
@@ -61,3 +49,4 @@ ChangeLog [recode v1.4b205]
 [/] Fixed rare ModuleList crash
 [/] Fixed NoFall -> Legit retrieve
 [/] Fixed Elytra+ not saving Mode
+[/] Added all descriptions for en/ru

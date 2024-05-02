@@ -1,21 +1,63 @@
-ChangeLog [recode v1.4b1404]
+ChangeLog [recode v1.4b205]
 
-[+] Spammer -> Api (by @Kowwwk)
-[+] AntiCrash (by @Kowwwk)
-[+] NoBob
-[+] HotbarReplenish -> Mode
-[+] NoFall -> Items -> Retrieve
-[+] GuiMove -> Grim995 (by @delyfss4796)
-[+] HoleSnap -> FOV
-[+] NoPush
-[+] ChatTranslator
-[+] ClickGUI -> tips
-[+] SpeedMine -> GrimInstant
-[+] Phase -> Pearl -> pitch
-[+] Aura -> Resolver -> BackTrack
-[/] Fixed XRay crash
-[/] Fixed TimerIndicator
-[/] Fixed AutoCrystal Switch
-[/] Fixed Packet placements
-[/] Fixed ChestStealer -> Close
-[/] Fixed DragNDrop cfg loading
+[+] Scaffold -> Grim
+[+] Breaker -> AntiShulker
+[+] ChatUtils -> PMSound
+[+] SoundESP
+[+] CandleHUD
+[+] AutoBuff -> Regeneration Mode
+[+] FakePlayer -> Name
+[+] Extra MiddleClick settings
+[+] AntiWeb -> Grim
+[+] Scaffold -> LockY
+[+] AntiAim move fix
+[+] Shaders -> Self
+[+] Elytra+ -> Control -> Acceleration
+[+] HudEditor -> Glow, Outline
+[+] Aura -> FastFall -> OnlyJumpBoost
+[+] Aura -> AccelerateOnHit modes
+[+] Aura -> ReturnSprint
+[+] AutoTotem -> Mode -> Alternative
+[+] GuiMove -> Bypass modes
+[+] Jesus
+[+] AutoTotem -> RightClickGapple mode
+[+] Criticals -> Grim
+[+] Elytra+ -> FireWork -> Grim
+[+] Speed -> GrimIce, GrimCombo (GrimIce + GrimEntity2)
+[+] GetHorseSpeedCommand (@gethorsespeed)
+[+] Nametags -> FriendColor
+[+] Avoid
+[+] WaterSpeed -> CancelResurface, FunTimeNew
+[+] AutoSign
+[+] LogoutSpots -> Notifications
+[+] Added Dropper and Dispenser to NoInteract
+[+] Freecam -> Track
+[+] PortalInventory
+[+] MemoryHud
+[+] NoSLow -> Matrix3
+[+] AutoAnvil
+[+] PerfectDelay -> HorseJump mode
+[/] Added all descriptions for en/ru
+[/] @module command has become more user-friendly 
+[/] Fixed HoleFill -> Always
+[/] Added Grim option to Rotation in modules
+[/] Improved HitParticles
+[/] Fixed Aura Raytracing
+[/] Now you can customize size of the ClickGui
+[/] Fixed ElytraRecast affecting to pitch even if Pitch is off
+[/] Fixed Timer compatibility with another clients
+[/] Impoved Multitask
+[/] Improved ViewLock
+[/] Fixed Search panel and string settings
+[/] Fixed AutoEat and AutoGapple not eating when inventory is open
+[/] Improved Breaker + AutoTrap + AutoCrystal + SpeedMine work
+[/] Fixed Strict Interactions
+[/] Fixed TriggerBot delay
+[/] Now Breaker can break EChests
+[/] Now you can expand and hide the color pickers
+[/] Fixed interaction with entities when Aura is enabled
+[/] Fixed BowPop debug spam
+[/] Fixed Breaker stuck
+[/] Fixed rare ModuleList crash
+[/] Fixed NoFall -> Legit retrieve
+[/] Fixed Elytra+ not saving Mode

@@ -9,14 +9,12 @@ ChangeLog [recode v1.4b205]
 [+] Extra MiddleClick settings
 [+] AntiWeb -> Grim
 [+] Scaffold -> LockY
-[+] AntiAim move fix
 [+] Shaders -> Self
 [+] Elytra+ -> Control -> Acceleration
 [+] HudEditor -> Glow, Outline
 [+] Aura -> FastFall -> OnlyJumpBoost, ReturnSprint, AccelerateOnHit modes
-[+] AutoTotem -> Mode -> Alternative
+[+] AutoTotem -> Mode -> Alternative, RightClickGapple mode
 [+] GuiMove -> Bypass modes
-[+] AutoTotem -> RightClickGapple mode
 [+] Criticals -> Grim
 [+] Elytra+ -> FireWork -> Grim
 [+] Speed -> GrimIce, GrimCombo (GrimIce + GrimEntity2)
@@ -25,7 +23,6 @@ ChangeLog [recode v1.4b205]
 [+] WaterSpeed -> CancelResurface, FunTimeNew
 [+] LogoutSpots -> Notifications
 [+] Added Dropper and Dispenser to NoInteract
-[+] Freecam -> Track
 [+] NoSLow -> Matrix3
 [+] PerfectDelay -> HorseJump mode
 [/] @module command has become more user-friendly 

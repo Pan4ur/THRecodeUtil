@@ -1,0 +1,6 @@
+ChangeLog [recode v1.6b305]
+
+[*] Ported to 1.20.6
+[+] ClickGui -> Blur
+[+] PotionHud -> Colored
+[/] Fixed Quiver

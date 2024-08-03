@@ -2,5 +2,6 @@ strict;pan4ur;29.01.2024
 fg;pan4ur;29.01.2024
 grim;pan4ur;29.01.2024
 grimcpvp;pan4ur;14.04.2024
-cc;pan4ur;13.07.2024
+cc;pan4ur;3.08.2024
 2b2t;Ebatte_Sratte;2.05.2024
+cc2;pan4ur;3.08.2024
